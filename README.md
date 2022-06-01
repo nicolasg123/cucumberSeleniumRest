@@ -1,4 +1,4 @@
-# Devsavant Automation Test
+# Test Cucumber, Selenium 
 
 This project contains a structure ready to implement automated test cases using Cucumber and Selenium along with the following components:
 
